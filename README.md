@@ -38,12 +38,12 @@ Ripple effects of prizewinning across knowledge space and collaboration networks
 
 ## Data
 
-The replication data are stored separately on **Google Drive** because some data files exceed GitHub's file-size limit.
+The replication data are hosted separately on **Hugging Face** because some files exceed GitHub's file-size limit.
 
-**Data repository:**  
-[Google Drive](https://drive.google.com/drive/folders/1_RNRytilj0fV1a2YV3dPe9zD1XQ8o7P0?usp=sharing)
+**Replication data:**  
+[Hugging Face Dataset](https://huggingface.co/datasets/Jingwen-01/Ripple_effects_of_prizewinning_across_knowledge_space_and_collaboration_networks)
 
-Download the replication data and place them in a local `Data/` directory before running the replication code.
+Download the data and place the files in a local `Data/` directory before running the replication code.
 
 
 ## Software Requirements
@@ -73,9 +73,7 @@ Clone or download this GitHub repository.
 
 ### 2. Download the replication data
 
-Download the replication dataset from Zenodo
-
-Extract the archive and place the data files in the `Data/` directory.
+Download the replication dataset from Hugging Face.
 
 ### 3. Construct the matched sample
 
