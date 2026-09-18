@@ -45,6 +45,7 @@ The replication data are hosted separately on **Hugging Face** because some file
 
 Download the data and place the files in a local `Data/` directory before running the replication code.
 
+WinnerID and AuthorID are anonymized independently within each data file and should not be used to link records across files.
 
 ## Software Requirements
 
